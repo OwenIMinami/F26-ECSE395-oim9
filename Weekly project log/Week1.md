@@ -11,7 +11,7 @@
 
 **8-28-26:** met with group to discuss team contract assignment. Assigned roles to members and submitted the assignment
 
-**8-28-26** Sent Stakeholder Meeting email to stakeholder (Screenshot in GitHub Repository)
+**8-28-26** Sent Stakeholder Meeting email to stakeholder (Screenshot in GitHub Repository as "StakeHolderEmail.png")
 
 **8-28-26:** Completed Lab 1
 
