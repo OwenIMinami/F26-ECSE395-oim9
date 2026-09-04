@@ -30,6 +30,8 @@ Consider asking David to join the meeting on a different device or in a less noi
 Discuss availability for a meeting to construct affinity diagram
 Currently unclear as to (a) how many aspects of the hit, pitch, and run competition we need to design our device to improve and (b) how many devices we need to prototype
 
+**9-4-26:** Completed Lab 2
+
 
 
 
