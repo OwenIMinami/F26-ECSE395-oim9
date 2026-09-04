@@ -5,4 +5,4 @@ This repositry is a weekly log of the work completed in eNGR 395 and the purpose
 | Weeks   | What we did                                                                             |
 | ------- | --------------------------------------------------------------------------------------- |
 | Week 1  | Figuring out GitHub and Markdown, was assigned project, created team contract, sent stakeholder email                                                                    |
-| Week #  | ...and so on                                                                            |
+| Week 2  | Scheduled meeting and met with David Moss to discuss project and his vision for the use                                                                         |
