@@ -1,5 +1,5 @@
 # Overview
-This repositry is a weekly log of the work completed in eNGR 395 and the purpose of this repositry is to keep count of my and my groups work towards the project in the class
+This repositry is a weekly log of the work completed in ENGR 395 and the purpose of this repositry is to keep count of my and my groups work towards the project in the class
 
 # Table of Content
 | Weeks   | What we did                                                                             |
