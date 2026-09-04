@@ -10,13 +10,17 @@
 **9-3-26:**  Met with the stakeholder to discuss the project and his wants for the product. The discussion was a bit difficult due to Mr. Moss being in Panera at the time of the Zoom meeting. We got a good general overview of the pitch, hit, run competition. seems like he wants a way to both record the scores, and have a way to measure accuracy for the pitch, distance for the hit, and time for the run. Overall, this seems like 4 different projects in one.
 **Meeting minutes:** 
 5:45pm: Meeting Starts
+
 5:45pm: Introductions
 Each student introduces themselves
 Ask stakeholder to introduce himself
+
 5:50pm-6:30pm: Ask for description of pitch, hit, and run competition.
 6:30pm-6:45pm: Closing remarks
+
 Our group will email David Moss when we learn when our next meeting will be
 David Moss will send our group videos of the hit, pitch, and run competition
+
 6:45pm-7:00pm: Team meeting w/out David Moss to debrief meeting
 Built a friendly rapport with David Moss
 Difficult to hear over Zoom because David was in a public place
