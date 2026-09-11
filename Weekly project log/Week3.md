@@ -20,6 +20,10 @@
       
 **9-9-26:**  Reviewed assignment and ensured assignment was submitted to Canvas on time
 
+**9-11-26:**  Briefly communicated with group about the next assignment due, trying to figure out everyone's contribution and a meeting time
+
+**9-11-26**  Completed lab 3 to learn how to use sensors with ESP32
+
 
       
       
