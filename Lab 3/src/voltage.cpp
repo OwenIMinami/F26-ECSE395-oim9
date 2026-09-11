@@ -1,13 +1,13 @@
 
-
+/*
 #include <Arduino.h>
 
 // function prototype
 int voltage(float analogvalue);
-int sensorValue;
-float sensorVoltage;
+int sensorValue; // this code initiates a variable sensorValue oim9
+float sensorVoltage;  // this code initiates a variable sensorVoltage oim9
 
-// Put your potentiometer pin assignment here
+// Put your potentiometer pin assignment here;
 const int sensorPin = A0;
 
 void setup() {
@@ -29,3 +29,4 @@ int voltage(float analogvalue){
     return voltage;
 }
 
+*/
