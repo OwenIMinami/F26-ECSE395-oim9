@@ -7,3 +7,4 @@ This repository is a weekly log of the work completed in ENGR 395, and the purpo
 | Week 1  | Figuring out GitHub and Markdown, was assigned project, created team contract, sent stakeholder email                                                                    |
 | Week 2  | Scheduled meeting and met with David Moss to discuss project and his vision for the use   
 | Week 3  | Compiled information from meeting with Mr. Moss   |
+| Week 3  | Completed technical and functional spec document, needfinding presentation, and Concept review meeting request email to stakeholder  |
