@@ -1,4 +1,4 @@
-# Week 2 Project Log
+# Week 3 Project Log
 **Owen Minami**
 
 **9-6-26:**  Discussed with the team the Project Background and Needs Statement assignment and began the process of finding a time to meet
