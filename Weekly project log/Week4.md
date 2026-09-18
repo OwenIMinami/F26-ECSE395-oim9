@@ -1,4 +1,4 @@
-# Week 2 Project Log
+# Week 4 Project Log
 **Owen Minami**
 
 **9-13-26:**  Met with team in person to go over and polish functional and technical specs document
