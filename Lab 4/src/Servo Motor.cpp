@@ -4,18 +4,18 @@
 
 // Define the servo and the pin it is connected to, what is your servo pin?
 Servo myServo;
-const int servoPin = 0;
+const int servoPin = A0;
 
 // Define the minimum and maximum pulse widths for the servo
 const int minPulseWidth = 500; // 0.5 ms
-const int maxPulseWidth = 2500; // 2.5 ms
+const int maxPulseWidth = 1500; // 2.5 ms
 
 void setup() {
   // Attach the servo to the specified pin and set its pulse width range
   myServo.attach(servoPin, minPulseWidth, maxPulseWidth);
 
   // Set the PWM frequency for the servo
-  myServo.setPeriodHertz(50); // Standard 50Hz servo
+  myServo.setPeriodHertz(100); // Standard 50Hz servo
 }
 
 void loop() {
