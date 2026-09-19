@@ -2,8 +2,8 @@
 
 // TODO: Define your pins
 // Hint: Look at your wiring. Which pins did you use?
-const int MOTOR_B_1A = 0; // Replace 0 with your pin number
-const int MOTOR_B_1B = 0; // Replace 0 with your pin number
+const int MOTOR_B_1A = A0; // Replace 0 with your pin number
+const int MOTOR_B_1B = A1; // Replace 0 with your pin number
 
 
 void setup() {
@@ -11,8 +11,8 @@ void setup() {
   pinMode(MOTOR_B_1A, OUTPUT);
   pinMode(MOTOR_B_1B, OUTPUT);  
 
-  analogWrite(MOTOR_B_1A, 255);
-  analogWrite(MOTOR_B_1B, 0);
+  analogWrite(MOTOR_B_1A, 0);
+  analogWrite(MOTOR_B_1B, 500);
 
   delay(5000);
 
