@@ -15,3 +15,11 @@ To integrate the potentiometer and the servo together, I have the potentiometer 
 he code sets up variables, then in a loop, reads the A2 pin, converts that to an angle, and sends that angle to the servo to move it to the correct spot.
 
 One thing of note in this project is that the servo is very jittery. I suspect this is because even if the servo is off by a little, it will try to correct and then overshoot and will continue to do that even with no potentiometer angle change.
+
+**Time Reporting and Reflection**
+
+1. 1.5 hours
+2. Low
+3. NA
+4. pretty comfortable. getting used to coding these ESP32s
+5. nope
