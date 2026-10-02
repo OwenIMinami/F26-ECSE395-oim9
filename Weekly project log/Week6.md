@@ -5,4 +5,6 @@
 
 **10-1-26:** Communicated with the team regarding our presentation to Mr. Moss this Friday. Also communicated plans for Friday's team work day
 
-**10-2-26:** The team met with Mr.Moss, however, I was unable to attend the meeting due to prior work commitments.
+**10-2-26:** Met with team during classtime to go over plan for presentation with Mr.Moss. Also communicated responibilities for upcoming document submission.
+
+**10-2-26:** The team met with Mr. Moss, however, I was unable to attend the meeting due to prior work commitments.
