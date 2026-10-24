@@ -10,7 +10,7 @@ This repository is a weekly log of the work completed in ENGR 395, and the purpo
 | Week 4  | Completed technical and functional spec document, needfinding presentation, and Concept review meeting request email to stakeholder  |
 | Week 5  | Completed Brainstorming milestone and resolved issues regarding contacting stakeholder  |
 | Week 6  | Team met with Mr. Moss, and a design concept was chosen to solve stakeholder needs  |
-| Week 7  | Team met with Mr. Moss, and a design concept was chosen to solve stakeholder needs  |
-| Week 8  | Team met with Mr. Moss, and a design concept was chosen to solve stakeholder needs  |
-| Week 9  | Team met with Mr. Moss, and a design concept was chosen to solve stakeholder needs  |
+| Week 7  | Developed Gantt chart and prototypes 2 and 3|
+| Week 8  | Worked on prototypes 2 and 3 and the midterm presentation  |
+| Week 9  | developed model, circuitry, and code for prototype 3  |
 
