@@ -14,4 +14,6 @@ This repository is a weekly log of the work completed in ENGR 395, and the purpo
 | Week 8  | Worked on prototypes 2 and 3 and the midterm presentation  |
 | Week 9  | developed model, circuitry, and code for prototype 3  |
 | Week 10  | Midterm presentation and MVP development  |
+| Week 11  | MVP work including battery and camera module  |
+
 
